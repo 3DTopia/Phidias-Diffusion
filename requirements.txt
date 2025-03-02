@@ -1,0 +1,37 @@
+torch
+numpy==1.24.0
+tyro
+diffusers==0.20.2
+dearpygui
+einops
+accelerate
+gradio
+imageio
+imageio-ffmpeg
+lpips
+matplotlib
+packaging
+Pillow
+pygltflib
+rembg[gpu,cli]
+rich
+safetensors
+scikit-image
+scikit-learn
+scipy
+tqdm
+transformers
+trimesh
+kiui >= 0.2.3
+xatlas
+roma
+plyfile
+objaverse
+
+# zero123plus
+pytorch-lightning==2.1.2
+webdataset
+omegaconf
+megfile
+pillow-avif-plugin
+huggingface-hub==0.25.2 

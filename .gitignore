@@ -1,0 +1,7 @@
+.cache
+blender**
+data_test/ref_maps_retrieved
+diff-gaussian-rasterization
+model
+results
+**/__pycache__
