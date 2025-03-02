@@ -1,4 +1,4 @@
-# Phidias: A Generative Model for Creating 3D  Content from Text, Image, and 3D Conditions with Reference-Augmented  Diffusion
+# [ICLR 2025] Phidias: A Generative Model for Creating 3D  Content from Text, Image, and 3D Conditions with Reference-Augmented  Diffusion
 
 ## NEWS: 
 - [March. 2025] Inference code released! :rocket: :rocket: :rocket:
