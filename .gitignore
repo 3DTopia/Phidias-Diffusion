@@ -1,5 +1,5 @@
 .cache
-blender**
+blender-3.2.2-linux-x64
 data_test/ref_maps_retrieved
 diff-gaussian-rasterization
 model
