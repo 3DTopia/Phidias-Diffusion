@@ -21,12 +21,6 @@ https://github.com/user-attachments/assets/189ffcb2-d777-4d22-829c-c80c3a27a7fe
     <img src="figures/overview.png" width="1080">
 </div>
 
-## Todo (Latest update: 2025/03/03)
-- [x] Release model weights, inference code, rendering code and usage instructions. The inference code has been tested on both RTX4090 (24G) and A100.
-- [ ] Release gradio and huggingface demo
-- [ ] Release training code and instructions
-
-
 
 ## Installation
 - Environment Setup:
